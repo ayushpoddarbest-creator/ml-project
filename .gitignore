@@ -1,3 +1,20 @@
 venv/
 __pycache__/
 *.pyc
+# ML generated files
+artifacts/
+src/component/artifacts/
+
+# Logs
+logs/
+
+# CatBoost generated files
+catboost_info/
+src/notebook/catboost_info/
+
+# Python temporary files
+src/component/tempCodeRunnerFile.py
+
+# Python cache
+__pycache__/
+*.pyc
